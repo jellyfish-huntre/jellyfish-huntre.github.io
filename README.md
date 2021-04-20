@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Want to contact me? Check out my [developer website](https://docs.github.com/categories/github-pages-basics/) or [email me](hunterthebest2@gmail.com?subject=Just_another_message) and I’ll reply as soon as possible.
+Want to contact me? Check out my [developer website](https://docs.github.com/categories/github-pages-basics/) or [email me](hunterthebest2@gmail.com) and I’ll reply as soon as possible.
