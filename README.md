@@ -1,8 +1,8 @@
 ## Welcome to Huntree
 
-You can use my [profile on Github](https://github.com/jellyfish-huntre) to view my current projects and repositories.
+I'm a high school student with experience in Python3 and Java. I have an interest in web design and development and am currently learning to use Webflow. I'm still learning, but I'm always one contact away! I am open to any critique and project ideas.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can use my [profile on Github](https://github.com/jellyfish-huntre) to view my current projects and repositories.
 
 ### Markdown
 
@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Want to contact me? Check out my [developer website](https://docs.github.com/categories/github-pages-basics/) or email me (hunterthebest2@gmail.com) and I’ll reply as soon as possible.
+Want to contact me? Check out my [developer website](https://docs.github.com/categories/github-pages-basics/) or [email me](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvqKcsbtcRDhdlgZPBBQPWSsbmmjpttQBSTmLFqGjsWZnjHnPwPJSclJGwKXZnjLxPfWXB) and I’ll reply as soon as possible.
