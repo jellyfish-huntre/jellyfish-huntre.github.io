@@ -1,19 +1,8 @@
 ## Welcome to Huntree
 
-I'm a high school student with experience in:
-1. Python3 
-2. Java. 
+I'm a high school student with experience in Python3 and Java. I have an interest in web design and development and am currently learning to use Webflow. I'm still learning, but I'm always one contact away! I am open to any critique and project ideas.
 
-I have an interest in
-1. Web design and development
-2. Unity
-
-I am currently learning to use 
-1. Webflow
-
-I'm still learning, but I'm always one contact away! I am open to any critique and project ideas.
-
-You can use my [profile on Github](https://github.com/jellyfish-huntre) to view my current projects and repositories.
+You can use my [developer portfolio](google.com) to see what I'm up to and my [profile on Github](https://github.com/jellyfish-huntre) to view my current projects and repositories.
 
 ### Markdown
 
