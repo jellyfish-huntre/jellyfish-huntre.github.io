@@ -2,11 +2,11 @@
 
 I'm a high school student with experience in Python3 and Java. I have an interest in web design and development and am currently learning to use Webflow. I'm still learning, but I'm always one contact away! I am open to any critique and project ideas.
 
-You can use my [profile on Github](https://github.com/jellyfish-huntre) to view my current projects and repositories.
+You can use my [developer portfolio](google.com) to see what I'm up to.
 
-### Markdown
+### Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Projects are a big part of my work. I have many completed projects and some works-in-progress, both personal and for school.
 
 ```markdown
 Syntax highlighted code block
@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For a complete collection, you can use my [profile on Github](https://github.com/jellyfish-huntre) to view my current projects and repositories.
 
 ### Jekyll Themes
 
