@@ -3,9 +3,11 @@
 I'm a high school student with experience in:
 1. Python3 
 2. Java. 
+
 I have an interest in
 1. Web design and development
 2. Unity
+
 I am currently learning to use 
 1. Webflow
 
